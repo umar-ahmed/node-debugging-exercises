@@ -1,7 +1,7 @@
 let animals;
 
 function addAnimal(animal) {
-	animals.push(animal);
+  animals.push(animal);
 }
 
-addAnimal('elephant');
+addAnimal("elephant");
